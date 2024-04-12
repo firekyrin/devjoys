@@ -17,6 +17,8 @@ https://zh.cppreference.com/w/cpp/11
 https://www.boost.org/
 ### boost doc
 https://www.boost.org/doc/libs/1_84_0/
+### awesome cpp
+https://github.com/fffaraz/awesome-cpp
 ### OpenCV doc
 https://docs.opencv.org/4.9.0/index.html
 ### OpenGL
