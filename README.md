@@ -1,2 +1,2 @@
-# devpage
-common website or page for dev
+# devtab
+common website or tab page for dev
